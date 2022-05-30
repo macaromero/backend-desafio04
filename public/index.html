@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+        <title>Form productos</title>
+    </head>
+    <body>
+        <div class="container mt-5">
+            <div class="row justify-content-center">
+                <h1 class="text-center">Ingresá el producto</h1>
+            </div>
+        </div>
+        <div class="container mt-5">
+            <div class="row justify-content-center">
+                <div class="col-6 mt-3">
+                    <form action="/api/productos/new" method="POST">
+                        <div class="mb-3">
+                          <label for="title" class="form-label">Nombre del producto</label>
+                          <input class="form-control" id="title" name="title">
+                        </div>
+                        <div class="mb-3">
+                          <label for="price" class="form-label">Precio</label>
+                          <input type="numer" class="form-control" id="price" name="price">
+                        </div>
+                        <div class="mb-3">
+                            <label for="thumbnail" class="form-label">Url de la imagen</label>
+                            <input type="numer" class="form-control" id="thumbnail" name="thumbnail">
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100 mt-2">Enviar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

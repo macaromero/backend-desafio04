@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Campera",
+    "price": "7000",
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/005/896/products/productos-tamano-ok-091-46699f4d0836a5932315816171976320-1024-1024.png",
+    "id": 1
+  },
+  {
+    "title": "Short",
+    "price": "3000",
+    "thumbnail": "https://seagale.fr/1591-large_default/strong-short.jpg",
+    "id": 2
+  },
+  {
+    "title": "Buzo",
+    "price": "5000",
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/161/800/products/5900311-625444ed61dc4d897215928408471193-1024-1024.jpg",
+    "id": 3
+  },
+  {
+    "title": "Zapatillas",
+    "price": "10000",
+    "thumbnail": "https://media.vogue.es/photos/6120c767358123b52e2edbbe/master/w_320%2Cc_limit/Captura%2520de%2520pantalla%25202021-08-21%2520a%2520las%252011.29.06.png",
+    "id": 4
+  },
+  {
+    "title": "Pantalón",
+    "price": "4000",
+    "thumbnail": "https://www.instyle.es/medio/2019/02/04/pantalones-vaqueros-cropped-primavera-uterque_b2a5edab_1000x1499.jpg",
+    "id": 5
+  },
+  {
+    "title": "Remera",
+    "price": "2100",
+    "thumbnail": "https://deliverind.com.ar/wp-content/uploads/2022/01/REMERA-BASIC-scaled.jpg",
+    "id": 6
+  },
+  {
+    "title": "Musculosa",
+    "price": "1400",
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/073/990/products/musculosa-negro-espalda1-ae2f2dd7abc75d785a15765494985081-1024-1024.jpg",
+    "id": 7
+  }
+]
